@@ -1,4 +1,4 @@
-## ¿Qué es la computación en la nube?
+> ## ¿Qué es la computación en la nube?
 
 La computación en la nube es un servicio de procesamiento y almacenamiento. A diferencia de un equipo físico, en la computación en la nube pagas por la potencia y el almacenamiento que necesitas en cada momento.
 Un ejemplo es cuando estamos desarrollando una aplicación web. Digamos que tienes 100 solicitudes mensuales; esta es una cifra ínfima, y al ser tan poco consultada, tu aplicación no necesitará un gran procesamiento.
